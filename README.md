@@ -93,10 +93,9 @@ Tests run against a separate `<database>_test` PostgreSQL database (override wit
 |---|---|
 | ![Portfolio](docs/screenshots/portfolio.png) | ![Transactions](docs/screenshots/transactions.png) |
 
-Mobile: ![Mobile stock detail](docs/screenshots/mobile-stock-detail.png)
 
 ## Demo video
-_Add link here._
+https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
 
 ## Disclaimer
 Simulated market data and virtual money only, for educational/demo purposes. No real-money transactions are performed.
